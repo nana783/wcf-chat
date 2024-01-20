@@ -11,9 +11,9 @@ WCF Communication: Windows Communication Foundation (WCF) is used for communicat
 
 #  Getting Started
 Clone the repository to your local machine:
-
+...
 git clone https://github.com/your-username/client-server-chat-app.git
-
+...
 Open the solution in Visual Studio.
 
 Run the host application first with admin privileges.
