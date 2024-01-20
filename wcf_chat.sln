@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{AAF97D52-74D2-4ED0-8D5B-66F7ECD9C60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerChat", "ServerChat\ServerChat.csproj", "{B9108FD1-49C4-44B5-9A08-7948C93E2BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9046B422-CEFB-4574-B6CD-23589497AE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF97D52-74D2-4ED0-8D5B-66F7ECD9C60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF97D52-74D2-4ED0-8D5B-66F7ECD9C60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF97D52-74D2-4ED0-8D5B-66F7ECD9C60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF97D52-74D2-4ED0-8D5B-66F7ECD9C60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9108FD1-49C4-44B5-9A08-7948C93E2BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9108FD1-49C4-44B5-9A08-7948C93E2BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9108FD1-49C4-44B5-9A08-7948C93E2BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9108FD1-49C4-44B5-9A08-7948C93E2BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9046B422-CEFB-4574-B6CD-23589497AE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9046B422-CEFB-4574-B6CD-23589497AE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9046B422-CEFB-4574-B6CD-23589497AE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9046B422-CEFB-4574-B6CD-23589497AE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C3DA201-5780-4B00-8C8A-B3333BD603AB}
+	EndGlobalSection
+EndGlobal
